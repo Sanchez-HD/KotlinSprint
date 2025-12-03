@@ -11,7 +11,4 @@ fun main() {
     //val stringValue: String = "Employee count 2000"
     val stringValue: String = "Employee count 1999"
     println(stringValue)
-
-
-
 }
