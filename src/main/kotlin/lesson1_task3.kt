@@ -1,14 +1,10 @@
 package lesson1
-
 fun main() {
 
-//  val year = 1961
-    val hour = "10:"
-    val time = 55
-//    println(year)
-//    println(hour)
-//    println(time)
-    print(hour)
-    print(time)
+    val year = 1961
+    var hour: String = "10"
+    var minutes: String = "55"
+
+    println(year)
+    print("$hour:$minutes")
 }
-// Данные не изменяемые. Переменную var не используем?
